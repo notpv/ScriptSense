@@ -1,0 +1,2 @@
+Character Error Rate (CER): 1.0000
+Word Error Rate (WER): 1.0000
