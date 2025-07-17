@@ -2,13 +2,11 @@
 
 **ScriptSense** is a deep learning-based system that reads handwritten English text from images. It uses a hybrid **CNN + BiLSTM + Transformer** architecture to deliver accurate results.
 
----
 
 ## What's Inside?
 
 - `ScriptSense_HTR_Final.ipynb` – The complete notebook with everything: preprocessing, training, evaluation, and prediction.
 
----
 
 ## How to Run?
 
@@ -30,7 +28,6 @@ pip install -r requirements.txt
 
 4. Open the notebook using Jupyter and run it.
 
----
 
 ## Requirements
 
@@ -43,14 +40,12 @@ Main libraries:
 
 All necessary installs are handled in the notebook if you're on Colab.
 
----
 
 ## Dataset
 
 We use the **IAM Handwriting Database**.  
 We imported the same from [Kaggle](https://www.kaggle.com/datasets/nibinv23/iam-handwriting-word-database) If you require the original dataset, you’ll need to download it from [here](https://fki.tic.heia-fr.ch/databases/iam-handwriting-database) and set the correct path.
 
----
 
 ## Metrics
 
@@ -60,7 +55,6 @@ Evaluation includes:
 - AUC Curve  
 - Confusion Matrix  
 
----
 
 ## Authors
 
@@ -70,7 +64,6 @@ This project was developed by a team of undergraduate students from Dayananda Sa
 - Pranav Vinod Pillai
 - R S Chiraag
 
----
 
 ## License
 
